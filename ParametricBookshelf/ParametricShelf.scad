@@ -1,3 +1,4 @@
+// Source files Copyright 2015 by Phillip Showers, licensed under GPLv3.
 
 $fn=360;
 in2mm = 25.4;
